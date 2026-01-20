@@ -1,6 +1,6 @@
 ##  API Contract & Data Flow
 
-**5.1 REST API Endpoints**
+**REST API Endpoints**
 _Authentication:_
 ```
   POST   /api/auth/login     → Login with credentials
@@ -20,7 +20,7 @@ _Incidents:_
   GET    /api/incidents      → List correlated incidents
   POST   /api/incidents      → Create incident from alerts
 ```
-**5.2 WebSocket Channels**
+**WebSocket Channels**
 
 _STOMP Endpoints:_
 ```
@@ -38,7 +38,7 @@ _Message Format:_
 }
 
 ```
-**5.3 Data Models Synchronization**
+**Data Models Synchronization**
 
 ```
 // types/index.ts (Frontend)
