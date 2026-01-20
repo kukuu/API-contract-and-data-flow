@@ -38,7 +38,7 @@ _Message Format:_
 }
 
 ```
-**Data Models Synchronization**
+**Data Models Synchronization - JAVA**
 
 ```
 // types/index.ts (Frontend)
@@ -76,3 +76,6 @@ public class Alert {
     private Instant timestamp;
 }
 ```
+**Data Models Synchronization - Node**
+
+**Data Models Synchronization - Python**
