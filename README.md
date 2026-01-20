@@ -13,7 +13,7 @@ _Alerts:_
   POST   /api/alerts         → Create new alert
   GET    /api/alerts/{id}    → Get specific alert
   PUT    /api/alerts/{id}    → Update alert
-  DELETE /api/alerts/{id}    → Delete alert
+  DELETE /api/alerts/{id}    → Delete alert 
 ```
 _Incidents:_
 ```
