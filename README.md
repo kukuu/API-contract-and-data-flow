@@ -7,7 +7,7 @@ _Authentication:_
   POST   /api/auth/refresh   → Refresh JWT token
   POST   /api/auth/logout    → Invalidate token
 ```
-_Alerts:_
+_Alerts:_ 
 ```
   GET    /api/alerts         → List alerts with filters
   POST   /api/alerts         → Create new alert
